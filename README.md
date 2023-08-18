@@ -105,7 +105,7 @@ http://10.10.11.236/blog/wp-admin/ redirects to `/wp-login.php`.
 
 By default, wordpress will give different error messages depending on if the username supplied is correct or not. Below is the message that appears when our username and password is incorrect.
 
-![General error message](images/general-wp-error.png)
+![General error message](images/general_wp_error.png)
 
 Below is the result of when I input the username "admin":
 
